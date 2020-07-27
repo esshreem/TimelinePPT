@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZ3Ufk3do/uA7ebHKh3xjVn7nhZAtPBYeWN+/WE2nEAgL4asLySFdcoAIAd23nKkAlZ18h+TxxvFlHwN8HFC2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esshreem\\TimelinePPT\\TimelinePPT\\TimelinePPT\\TimelinePPT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esshreem\\.nuget\\packages\\aspose.slides.net\\20.7.0\\aspose.slides.net.20.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\esshreem\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\esshreem\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\esshreem\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
